@@ -1,6 +1,6 @@
+<!DOCTYPE html>
 <html>
-<header><title>This is title</title></header>
 <body>
-Hello world
+<h1> Welcome to Edureka </h1>
 </body>
 </html>
